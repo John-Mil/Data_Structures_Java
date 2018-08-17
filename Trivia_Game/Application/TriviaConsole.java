@@ -2,6 +2,7 @@
 //Note: This assumes there is a text file (game.txt) that exists and
 //is in proper format to generate a Trivia Game
 
+
 package application;
 
 import java.io.*;
